@@ -1,3 +1,10 @@
+'''
+*************************************************************
+Lists are a collection of ordered and changeable items.
+They allow for duplicate members
+*************************************************************
+'''
+
 names = ["Jim", "Timmy", "Arthur", "Mary", "Jane"]
 numbers = [3, 1, 2, 5, 4]
 
@@ -108,9 +115,3 @@ Output: []
 names.clear()
 print(names)
 
-'''
-*************************************************************
-Lists are a collection of ordered and changeable items.
-They allow for duplicate members
-*************************************************************~AQ    Q   
-'''
