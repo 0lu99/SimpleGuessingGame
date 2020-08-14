@@ -1,4 +1,4 @@
-def remove_dupe1(x)
+def remove_dupe1(x):
     y = []
     for i in x:
         if i not in y:
